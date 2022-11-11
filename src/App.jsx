@@ -1,6 +1,7 @@
 import { Post } from "./Post"
 import { Header } from "./Header"
 import { Sliderbar } from "./Sliderbar"
+import './global.css'
 
 export function App() {
   return (
