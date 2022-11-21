@@ -4,7 +4,7 @@ export function Header() {
     return (
         <header className={styles.header}>
             <strong>ThiFeed</strong>
-            <img src='' alt="asdfasdfasd" />
+            <img src='./src/assets/legendas.svg' alt="asdfasdfasd" />
         </header>
     )
 }
