@@ -7,11 +7,9 @@
  
 .header img {
     height: 2rem;
+ 
 }
  
 .header strong {
     align-self: flex-end;
 }
- 
-/* 1rem = 16px
-0.25 = 4px */
